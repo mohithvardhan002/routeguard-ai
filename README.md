@@ -23,3 +23,7 @@ A React + Vite navigation UI starter with Google Maps, live Places autocomplete,
 - A Maps browser key is visible to users by design: restrict it by HTTP referrer and API.
 - Configure Firebase Authentication and database rules before public deployment. Do not use public write access for production.
 - Before launch, add abuse protection, report moderation, privacy/retention policy, and rate limits.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a70010a-ec49-4cad-a792-4296d542e48b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cbb3c3f3-31c9-4218-819c-274af982cea8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c52446a0-2f3b-4bee-a7dc-b0eb52194795" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf608336-1ea6-4265-ad7b-160b7ffb93d0" />
